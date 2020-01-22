@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "Beginner"
+		},
+		{
+			"path": "Intermediate"
+		},
+		{
+			"path": "Tax Fraud Detection"
+		},
+		{
+			"path": "Xente fraud Detection"
+		},
+		{
+			"path": "Xente Credit Scoring"
+		},
+		{
+			"path": "TunisAir Delay Prediction"
+		},
+		{
+			"path": "Busara Mental Health Prediction"
+		},
+		{
+			"path": "Financial Inclusion"
+		},
+		{
+			"path": "Insurance Prediction"
+		},
+		{
+			"path": "Loan Default Prediction"
+		}
+	],
+	"settings": {}
+}
